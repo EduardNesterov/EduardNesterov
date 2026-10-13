@@ -2,7 +2,7 @@
 
 **Junior ML Engineer** · Kyiv, Ukraine
 
-Applied mathematics graduate building ML systems around local models: embeddings, clustering, classification and LLM text generation, all running on my own hardware, with no cloud APIs.
+Applied mathematics graduate building ML systems around local models: embeddings, clustering, classification and LLM text generation.
 
 ### Projects
 
